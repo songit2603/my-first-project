@@ -1,0 +1,18 @@
+# File cấu hình riêng
+secret.txt
+passwords.txt
+
+# Thư mục
+node_modules/
+.cache/
+
+# Theo đuôi file
+*.log
+*.tmp
+
+
+
+
+
+
+
